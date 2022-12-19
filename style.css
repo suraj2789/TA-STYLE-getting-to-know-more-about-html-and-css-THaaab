@@ -1,0 +1,92 @@
+body{
+    background-color: lightblue;
+}
+.btn{
+    background-color: green;
+}
+ {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.center{
+    align-items: center;
+}
+#dogs{
+    background-color: azure;
+	align-items: center; justify-self: center;
+}
+.mid{
+    align-items: center;
+    justify-content: center;
+    padding-top: 3rem;
+    margin-left: 22rem;
+    
+}
+body.jk{
+	align-items: center;
+	background-color: darkkhaki;
+	margin-left: 10rem;
+	
+}
+.unique{
+	align-items: center;
+	justify-content: center;
+}
+
+#un{
+	align-content: center;
+	text-align: center;
+	margin-right: 12rem;
+}
+#back{
+	backface-visibility: visible;
+	
+	border: 12px;
+	height: 2rem;
+	padding-top: 2px;
+}
+.primary{
+	align-items: center;
+	text-align: center;
+}
+#calming{
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+.bo{
+	background-color: rgb(red, green, blue);
+	background-color: hsl(24, 100%, 50%)
+}
+
+#dol{
+	background-color: hsl(20 ,50%, 100%);
+}
